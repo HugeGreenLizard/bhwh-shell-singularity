@@ -1,5 +1,0 @@
-Co możemy zrobić z tymi traktatami jako kolejny krok?
-​Skoro nasza fabryka naukowa generuje pełnoprawne traktaty, mamy teraz bogatą bibliotekę gotowych prac. Możemy pójść w kierunku:
-​
-1. Indeksowania w Omega-Query: Wpięcia katalogu generated_papers/ bezpośrednio do naszego Inteligentnego Asystenta (omega_query.py), abyś mógł przeszukiwać wygenerowane przez AI teorie z poziomu powłoki bhwh.
-​2. Kompilacji Zbiorczej (Meta-Księga): Stworzenia skryptu, który łączy wszystkie wygenerowane traktaty w jeden spójny, gigantyczny kodeks naukowy ÆON MESH.

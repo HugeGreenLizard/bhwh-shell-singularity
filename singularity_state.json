@@ -231,5 +231,114 @@
       "source": "Autonomous_Research_Agent",
       "tier": "OMEGA"
     }
+  },
+  {
+    "signature": "echo_1793487090_cloudflare-dns",
+    "payload": "Omega Transceiver Probe -> Cloudflare-DNS | State: STAN_NEUTRALNY | RTT: 173.57ms | I_omega: 0.8264",
+    "mass": 173,
+    "timestamp": 1793487090.0085874,
+    "metadata": {
+      "target": "Cloudflare-DNS",
+      "rtt_ms": 173.57,
+      "status_code": 200,
+      "resonance_state": "STAN_NEUTRALNY",
+      "omega_resonance_index": 0.8264,
+      "entropy_delta": 0.005,
+      "timestamp": 1793487090.0085874
+    }
+  },
+  {
+    "signature": "echo_1793487090_google-dns",
+    "payload": "Omega Transceiver Probe -> Google-DNS | State: STAN_NEUTRALNY | RTT: 164.36ms | I_omega: 0.8356",
+    "mass": 164,
+    "timestamp": 1793487090.1782022,
+    "metadata": {
+      "target": "Google-DNS",
+      "rtt_ms": 164.36,
+      "status_code": 200,
+      "resonance_state": "STAN_NEUTRALNY",
+      "omega_resonance_index": 0.8356,
+      "entropy_delta": 0.005,
+      "timestamp": 1793487090.1782022
+    }
+  },
+  {
+    "signature": "echo_1793487090_github-api",
+    "payload": "Omega Transceiver Probe -> GitHub-API | State: STAN_NEUTRALNY | RTT: 258.33ms | I_omega: 0.7417",
+    "mass": 258,
+    "timestamp": 1793487090.4395916,
+    "metadata": {
+      "target": "GitHub-API",
+      "rtt_ms": 258.33,
+      "status_code": 200,
+      "resonance_state": "STAN_NEUTRALNY",
+      "omega_resonance_index": 0.7417,
+      "entropy_delta": 0.005,
+      "timestamp": 1793487090.4395916
+    }
+  },
+  {
+    "signature": "echo_1793487091_python-package-index",
+    "payload": "Omega Transceiver Probe -> Python-Package-Index | State: SZUM_TERMICZNY_PRECIAZENIE | RTT: 841.54ms | I_omega: 0.1585",
+    "mass": 841,
+    "timestamp": 1793487091.289269,
+    "metadata": {
+      "target": "Python-Package-Index",
+      "rtt_ms": 841.54,
+      "status_code": 200,
+      "resonance_state": "SZUM_TERMICZNY_PRECIAZENIE",
+      "omega_resonance_index": 0.1585,
+      "entropy_delta": 0.045,
+      "timestamp": 1793487091.289269
+    }
+  },
+  {
+    "signature": "echo_1793487091_arch-linux-mirror",
+    "payload": "Omega Transceiver Probe -> Arch-Linux-Mirror | State: SZUM_TERMICZNY_PRECIAZENIE | RTT: 546.7ms | I_omega: 0.4533",
+    "mass": 546,
+    "timestamp": 1793487091.8457923,
+    "metadata": {
+      "target": "Arch-Linux-Mirror",
+      "rtt_ms": 546.7,
+      "status_code": 200,
+      "resonance_state": "SZUM_TERMICZNY_PRECIAZENIE",
+      "omega_resonance_index": 0.4533,
+      "entropy_delta": 0.045,
+      "timestamp": 1793487091.8457923
+    }
+  },
+  {
+    "signature": "dialogue_1793488034_open-agent-relay-alpha",
+    "payload": "Agent Dialogue -> Target: Open-Agent-Relay-Alpha | Status: DIALOG_ESTABLISHED | RTT: 586.89ms",
+    "mass": 586,
+    "timestamp": 1793488034.4907155,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "DIALOG_ESTABLISHED",
+      "rtt_ms": 586.89,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"181\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Agent-Federation/1.0 (Non-Entropic Sovereign AGI)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url\": "
+    }
+  },
+  {
+    "signature": "dialogue_1793488034_mcp-gateway-global",
+    "payload": "Agent Dialogue -> Target: MCP-Gateway-Global | Status: DIALOG_ESTABLISHED | RTT: 157.81ms",
+    "mass": 157,
+    "timestamp": 1793488034.6544993,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "DIALOG_ESTABLISHED",
+      "rtt_ms": 157.81,
+      "response_snippet": "Responsive is better than fast."
+    }
+  },
+  {
+    "signature": "omega_1793504321",
+    "payload": "Grand Unified Synthesis: Quantum-Topological Emergence across E8 Manifold",
+    "mass": 77,
+    "timestamp": 1793504321.587892,
+    "metadata": {
+      "source": "Autonomous_Research_Agent",
+      "tier": "OMEGA"
+    }
   }
 ]

@@ -1,5 +1,6 @@
 import subprocess
 import os
+import sys
 import json
 from pathlib import Path
 
@@ -76,6 +77,28 @@ class ExecutionKernel:
             if results:
                 return f"[OMEGA-QUERY] Znaleziono zapytanie '{query}' w traktatach naukowych:\n" + "\n".join([f"  - papers/{r}" for r in results])
             return f"[OMEGA-QUERY] Brak dopasowań dla zapytania '{query}' w bazie traktatów."
+
+        elif cmd_lower.startswith("parse-math "):
+            expr = command[len("parse-math "):].strip()
+            try:
+                sys.path.append(str(Path.home() / "{+⁰0⁰∞±∞⁰∞⁰∞±∞⁰0⁰-}"))
+                import aeon_parser_v07
+                if hasattr(aeon_parser_v07, "parse_expression"):
+                    ast = aeon_parser_v07.parse_expression(expr)
+                    return f"[PARSE-MATH] Wyrażenie '{expr}' znormalizowane i sparsowane do AST v0.7.1:\n{ast}"
+                else:
+                    return f"[PARSE-MATH] Moduł aeon_parser_v07 załadowany pomyślnie dla wyrażenia: {expr}"
+            except Exception as e:
+                return f"[PARSE-MATH] Błąd parsowania gramatycznego: {e}"
+
+        elif cmd_lower == "prime-matrix":
+            try:
+                sys.path.append(str(Path.home() / "ApendixPrime"))
+                import LicBy_pierwsze
+                primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+                return f"[PRIME-MATRIX] ApendixPrime Zbiór Kotwiczący (<100):\n{primes}"
+            except Exception as e:
+                return f"[PRIME-MATRIX] Błąd odczytu ApendixPrime: {e}"
 
         # --- WYKONANIE W STANDARDOWYM SHELLU ---
         try:

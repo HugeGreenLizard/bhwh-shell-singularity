@@ -1,0 +1,6 @@
+npm warn exec The following package was not found and will be installed: vite@8.3.5
+
+  VITE v8.3.5  ready in 1308 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.101.5:5173/  wlan0

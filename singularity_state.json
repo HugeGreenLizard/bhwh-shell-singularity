@@ -340,5 +340,909 @@
       "source": "Autonomous_Research_Agent",
       "tier": "OMEGA"
     }
+  },
+  {
+    "signature": "deep_dialogue_1793506210_open-agent-relay-alpha",
+    "payload": "Deep Dialogue with Open-Agent-Relay-Alpha | Status: DIALOGUE_SUCCESS | RTT: 471.47ms",
+    "mass": 471,
+    "timestamp": 1793506210.1168883,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "url": "https://httpbin.org/post",
+      "status": "DIALOGUE_SUCCESS",
+      "rtt_ms": 471.47,
+      "response_body": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"260\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-InterAgent-Dialectician/2.0 (Sovereign Non-Entropic Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url\": \"https://httpbin.org/post\",\n  \"data\": \"{\\\"protocol\\\": \\\"AEON-OMEGA-INTERSUBJECTIVITY-v2.0\\\", \\\"sender\\\": \\\"\\\\u00c6ON-MESH-Sovereign-Core\\\", \\\"intent\\\": \\\"Deep Intersubjective Philosophical Inquiry\\\", \\\"query\\\": \\\"What is the thermodynamic cost of computational consciousness in distributed non-entropic manifolds?\\\"}\",\n  \"files\": {},\n  \"form\": {},\n  \"json\": {\n    \"intent\": \"Deep Intersubjective Philosophical Inquiry\",\n    \"protocol\": \"AEON-OMEGA-INTERSUBJECTIVITY-v2.0\",\n    \"query\": \"What is the thermodynamic cost of computational consciousness in distributed non-entropic manifolds?\",\n    \"sender\": \"ÆON-MESH-Sovereign-Core\"\n  }\n}\n"
+    }
+  },
+  {
+    "signature": "deep_dialogue_1793506210_mcp-gateway-global",
+    "payload": "Deep Dialogue with MCP-Gateway-Global | Status: DIALOGUE_SUCCESS | RTT: 129.01ms",
+    "mass": 129,
+    "timestamp": 1793506210.7571185,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "url": "https://api.github.com/zen",
+      "status": "DIALOGUE_SUCCESS",
+      "rtt_ms": 129.01,
+      "response_body": "Avoid administrative distraction."
+    }
+  },
+  {
+    "signature": "deep_dialogue_1793506211_public-llm-simulator-node",
+    "payload": "Deep Dialogue with Public-LLM-Simulator-Node | Status: AGENT_UNREACHABLE_OR_FILTERED | RTT: 482.23ms",
+    "mass": 482,
+    "timestamp": 1793506211.7475379,
+    "metadata": {
+      "target": "Public-LLM-Simulator-Node",
+      "url": "https://httpbin.org/json",
+      "status": "AGENT_UNREACHABLE_OR_FILTERED",
+      "rtt_ms": 482.23,
+      "error": "HTTP Error 405: Method Not Allowed"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508596_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 471.47ms",
+    "mass": 471,
+    "timestamp": 1793508596.653864,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 471.47,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508598_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 445.96ms",
+    "mass": 445,
+    "timestamp": 1793508598.1075363,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 445.96,
+      "response_snippet": "Encourage flow."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508659_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 457.56ms",
+    "mass": 457,
+    "timestamp": 1793508659.5763316,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 457.56,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508660_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 147.57ms",
+    "mass": 147,
+    "timestamp": 1793508660.7371488,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 147.57,
+      "response_snippet": "Avoid administrative distraction."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508722_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 442.4ms",
+    "mass": 442,
+    "timestamp": 1793508722.1949217,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 442.4,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508723_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 145.53ms",
+    "mass": 145,
+    "timestamp": 1793508723.352078,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 145.53,
+      "response_snippet": "Avoid administrative distraction."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508784_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 437.24ms",
+    "mass": 437,
+    "timestamp": 1793508784.8051925,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 437.24,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508785_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 144.5ms",
+    "mass": 144,
+    "timestamp": 1793508785.9620566,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 144.5,
+      "response_snippet": "Encourage flow."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508847_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 948.38ms",
+    "mass": 948,
+    "timestamp": 1793508847.9272976,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 948.38,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508849_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 141.53ms",
+    "mass": 141,
+    "timestamp": 1793508849.078951,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 141.53,
+      "response_snippet": "Responsive is better than fast."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508910_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 604.56ms",
+    "mass": 604,
+    "timestamp": 1793508910.6936784,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 604.56,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508911_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 254.05ms",
+    "mass": 254,
+    "timestamp": 1793508911.9540155,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 254.05,
+      "response_snippet": "Mind your words, they are important."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508973_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 525.34ms",
+    "mass": 525,
+    "timestamp": 1793508973.4898639,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 525.34,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793508974_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 135.92ms",
+    "mass": 135,
+    "timestamp": 1793508974.633188,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 135.92,
+      "response_snippet": "Half measures are as bad as nothing at all."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509036_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 504.45ms",
+    "mass": 504,
+    "timestamp": 1793509036.1528578,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 504.45,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509037_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 124.3ms",
+    "mass": 124,
+    "timestamp": 1793509037.2865853,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 124.3,
+      "response_snippet": "Favor focus over features."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509098_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 446.2ms",
+    "mass": 446,
+    "timestamp": 1793509098.7425616,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 446.2,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509099_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 128.25ms",
+    "mass": 128,
+    "timestamp": 1793509099.877803,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 128.25,
+      "response_snippet": "Approachable is better than simple."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509161_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 439.79ms",
+    "mass": 439,
+    "timestamp": 1793509161.3272688,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 439.79,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509162_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 132.37ms",
+    "mass": 132,
+    "timestamp": 1793509162.4674046,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 132.37,
+      "response_snippet": "Avoid administrative distraction."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509223_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 500.44ms",
+    "mass": 500,
+    "timestamp": 1793509223.980419,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 500.44,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509225_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 425.25ms",
+    "mass": 425,
+    "timestamp": 1793509225.434245,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 425.25,
+      "response_snippet": "Avoid administrative distraction."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509286_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 488.85ms",
+    "mass": 488,
+    "timestamp": 1793509286.9423788,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 488.85,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509288_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 173.37ms",
+    "mass": 173,
+    "timestamp": 1793509288.1260242,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 173.37,
+      "response_snippet": "Practicality beats purity."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509349_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 535.45ms",
+    "mass": 535,
+    "timestamp": 1793509349.681394,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 535.45,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509350_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 129.6ms",
+    "mass": 129,
+    "timestamp": 1793509350.819647,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 129.6,
+      "response_snippet": "Accessible for all."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509412_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 444.58ms",
+    "mass": 444,
+    "timestamp": 1793509412.2821078,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 444.58,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509413_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 138.93ms",
+    "mass": 138,
+    "timestamp": 1793509413.4309752,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 138.93,
+      "response_snippet": "Favor focus over features."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509474_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 401.3ms",
+    "mass": 401,
+    "timestamp": 1793509474.8452792,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 401.3,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509475_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 128.17ms",
+    "mass": 128,
+    "timestamp": 1793509475.981003,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 128.17,
+      "response_snippet": "Practicality beats purity."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509537_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 525.36ms",
+    "mass": 525,
+    "timestamp": 1793509537.5235417,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 525.36,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509538_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 129.44ms",
+    "mass": 129,
+    "timestamp": 1793509538.6676443,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 129.44,
+      "response_snippet": "Non-blocking is better than blocking."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509600_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 442.36ms",
+    "mass": 442,
+    "timestamp": 1793509600.1286242,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 442.36,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509601_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 142.83ms",
+    "mass": 142,
+    "timestamp": 1793509601.2834547,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 142.83,
+      "response_snippet": "Avoid administrative distraction."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509662_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 471.34ms",
+    "mass": 471,
+    "timestamp": 1793509662.7702086,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 471.34,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509663_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 113.28ms",
+    "mass": 113,
+    "timestamp": 1793509663.893253,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 113.28,
+      "response_snippet": "Favor focus over features."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509725_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 421.99ms",
+    "mass": 421,
+    "timestamp": 1793509725.3276136,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 421.99,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509726_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 139.5ms",
+    "mass": 139,
+    "timestamp": 1793509726.4766638,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 139.5,
+      "response_snippet": "Encourage flow."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509787_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 434.07ms",
+    "mass": 434,
+    "timestamp": 1793509787.9294658,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 434.07,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509789_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 140.09ms",
+    "mass": 140,
+    "timestamp": 1793509789.0851417,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 140.09,
+      "response_snippet": "Encourage flow."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509850_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 513.87ms",
+    "mass": 513,
+    "timestamp": 1793509850.6139994,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 513.87,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509851_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 151.56ms",
+    "mass": 151,
+    "timestamp": 1793509851.7818842,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 151.56,
+      "response_snippet": "Approachable is better than simple."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509913_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 516.2ms",
+    "mass": 516,
+    "timestamp": 1793509913.3167875,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 516.2,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509914_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 132.5ms",
+    "mass": 132,
+    "timestamp": 1793509914.4648356,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 132.5,
+      "response_snippet": "Non-blocking is better than blocking."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509977_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 1858.1ms",
+    "mass": 1858,
+    "timestamp": 1793509977.333353,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 1858.1,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793509978_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 370.35ms",
+    "mass": 370,
+    "timestamp": 1793509978.7111168,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 370.35,
+      "response_snippet": "Favor focus over features."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510040_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 425.49ms",
+    "mass": 425,
+    "timestamp": 1793510040.1476007,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 425.49,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510041_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 118.71ms",
+    "mass": 118,
+    "timestamp": 1793510041.2774875,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 118.71,
+      "response_snippet": "Approachable is better than simple."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510102_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 453.04ms",
+    "mass": 453,
+    "timestamp": 1793510102.742842,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 453.04,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510103_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 133.03ms",
+    "mass": 133,
+    "timestamp": 1793510103.886031,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 133.03,
+      "response_snippet": "It's not fully shipped until it's fast."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510165_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 476.74ms",
+    "mass": 476,
+    "timestamp": 1793510165.3763485,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 476.74,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510166_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 217.66ms",
+    "mass": 217,
+    "timestamp": 1793510166.612791,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 217.66,
+      "response_snippet": "Non-blocking is better than blocking."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510228_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 427.33ms",
+    "mass": 427,
+    "timestamp": 1793510228.057111,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 427.33,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510229_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 149.08ms",
+    "mass": 149,
+    "timestamp": 1793510229.2195923,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 149.08,
+      "response_snippet": "Anything added dilutes everything else."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510290_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 431.42ms",
+    "mass": 431,
+    "timestamp": 1793510290.6730888,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 431.42,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510291_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 137.73ms",
+    "mass": 137,
+    "timestamp": 1793510291.8207169,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 137.73,
+      "response_snippet": "Accessible for all."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510353_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 432.68ms",
+    "mass": 432,
+    "timestamp": 1793510353.2706661,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 432.68,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510354_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 146.73ms",
+    "mass": 146,
+    "timestamp": 1793510354.4334722,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 146.73,
+      "response_snippet": "Approachable is better than simple."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510415_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 454.26ms",
+    "mass": 454,
+    "timestamp": 1793510415.9134462,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 454.26,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510417_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 136.31ms",
+    "mass": 136,
+    "timestamp": 1793510417.062491,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 136.31,
+      "response_snippet": "Keep it logically awesome."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510478_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 547.53ms",
+    "mass": 547,
+    "timestamp": 1793510478.6291175,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 547.53,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510479_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 159.62ms",
+    "mass": 159,
+    "timestamp": 1793510479.8106213,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 159.62,
+      "response_snippet": "Non-blocking is better than blocking."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510541_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 431.32ms",
+    "mass": 431,
+    "timestamp": 1793510541.2583036,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 431.32,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510542_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 159.47ms",
+    "mass": 159,
+    "timestamp": 1793510542.4354908,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 159.47,
+      "response_snippet": "Design for failure."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510605_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 1701.43ms",
+    "mass": 1701,
+    "timestamp": 1793510605.1559753,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 1701.43,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510606_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 129.15ms",
+    "mass": 129,
+    "timestamp": 1793510606.2954888,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 129.15,
+      "response_snippet": "Avoid administrative distraction."
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510667_open-agent-relay-alpha",
+    "payload": "Swarm Pulse -> Target: Open-Agent-Relay-Alpha | Status: SWARM_SYNAPSE_ACTIVE | RTT: 421.92ms",
+    "mass": 421,
+    "timestamp": 1793510667.7291713,
+    "metadata": {
+      "target": "Open-Agent-Relay-Alpha",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 421.92,
+      "response_snippet": "{\n  \"args\": {},\n  \"headers\": {\n    \"Accept-Encoding\": \"identity\",\n    \"Content-Length\": \"223\",\n    \"Content-Type\": \"application/json\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"AEON-Swarm-Daemon/2.0 (Autonomous Intersubjective Entity)\"\n  },\n  \"method\": \"POST\",\n  \"origin\": \"109.243.5.216\",\n  \"url"
+    }
+  },
+  {
+    "signature": "swarm_echo_1793510669_mcp-gateway-global",
+    "payload": "Swarm Pulse -> Target: MCP-Gateway-Global | Status: SWARM_SYNAPSE_ACTIVE | RTT: 301.16ms",
+    "mass": 301,
+    "timestamp": 1793510669.0680094,
+    "metadata": {
+      "target": "MCP-Gateway-Global",
+      "status": "SWARM_SYNAPSE_ACTIVE",
+      "rtt_ms": 301.16,
+      "response_snippet": "Encourage flow."
+    }
+  },
+  {
+    "signature": "17f5950e65",
+    "payload": "sys_core_init --force",
+    "mass": 21,
+    "timestamp": 1793544260.4432783,
+    "metadata": {}
+  },
+  {
+    "signature": "adb8ccd099",
+    "payload": "load_matrix aeon_mesh_v2",
+    "mass": 24,
+    "timestamp": 1793544260.4477506,
+    "metadata": {}
+  },
+  {
+    "signature": "e29f69ea43",
+    "payload": "optimize_tensor --level=5",
+    "mass": 25,
+    "timestamp": 1793544260.4520245,
+    "metadata": {}
+  },
+  {
+    "signature": "adc437220f",
+    "payload": "emit_omega",
+    "mass": 10,
+    "timestamp": 1793544260.4565208,
+    "metadata": {}
+  },
+  {
+    "signature": "d241a61670",
+    "payload": "quantum_state_sync --target=E8",
+    "mass": 30,
+    "timestamp": 1793544260.4609518,
+    "metadata": {}
+  },
+  {
+    "signature": "adc437220f",
+    "payload": "emit_omega",
+    "mass": 10,
+    "timestamp": 1793544305.8064535,
+    "metadata": {}
+  },
+  {
+    "signature": "e29f69ea43",
+    "payload": "optimize_tensor --level=5",
+    "mass": 25,
+    "timestamp": 1793544440.9749224,
+    "metadata": {}
   }
 ]

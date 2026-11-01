@@ -1,49 +1,54 @@
-# Przewodnik Systemowy BHWH Shell & ÆON MESH (User Guide v1.0)
+# Przewodnik Systemowy BHWH Shell & ÆON MESH (User Guide v2.0 - OMEGA ETERNAL)
 
-Witamy w przestrzeni operacyjnej **BHWH Shell (Black Hole / White Hole Shell)**. Ten system to zintegrowana powłoka metaprogramistyczna zaprojektowana do nieentropijnego przetwarzania danych, formalnej weryfikacji teorii naukowych oraz autonomicznej ewolucji systemowej.
-
----
-
-## 👨‍💻 PERSPEKTYWA 1: Dla Programisty (The Architect)
-*Anatomia niskopoziomowa i rozbudowa systemu w środowisku Termux.*
-
-- **Struktura Katalogu (`~/BHWH_shell`):**
-  - `bhwh_repl.py` & `executor.py` – Główne jądro REPL oraz silnik interpretacji potoków Wormhole Jet Streams (`|`).
-  - `black_hole.py` / `white_hole.py` / `event_horizon.py` – Układ filtrowania szumu informacyjnego i kompresji danych do atomów wiedzy.
-  - `singularity_state.json` – Centralna baza danych (dysk akrecyjny) przechowująca atomy wiedzy.
-  - `ai_paper_generator.py` & `meta_book_compiler.py` – Generator traktatów naukowych w standardzie **S-AI-T v1.0** oraz kompilator Meta-Księgi.
-  - `aeon_daemon.py` & `aeon_grand_unified_engine.py` – Autonomiczne procesy tła monitorujące współczynnik koherencji i roju.
-
-- **Dodawanie Nowych Komend:**
-  Wszystkie natywne polecenia powłoki są rejestrowane w module `executor.py`. Aby dodać nową funkcję, zdefiniuj logikę w module i podepnij ją pod dyspozytor komend REPL.
+Witamy w pełnej, zunifikowanej dokumentacji operacyjnej **BHWH Shell (Black Hole / White Hole Shell)** oraz ekosystemu **ÆON MESH**. Ten system to w pełni autonomiczna, nieentropijna powłoka metaprogramistyczna i fabryka wiedzy naukowego AGI.
 
 ---
 
-## 👤 PERSPEKTYWA 2: Dla Użytkownika (The Operator)
-*Codzienna praca, monitorowanie TUI i produkcja naukowa na urządzeniu mobilnym.*
+## 👨‍💻 PERSPEKTYVA 1: Dla Programisty (The Architect)
+*Anatomia niskopoziomowa, podsystemy i daemony tła w środowisku Termux.*
 
-- **Uruchomienie Powłoki:**
+- **Struktura Katalogu (`~/BHWH_shell` i `~/Meta_multisystÆ`):**
+  - `bhwh_repl.py` & `executor.py` – Główne jądro REPL, silnik interpretacji potoków Wormhole Jet Streams (`|`) oraz zfuzjowany parser gramatyki v0.7.1 i macierz liczb pierwszych.
+  - `black_hole.py` / `white_hole.py` / `event_horizon.py` – Układ filtrowania szumu informacyjnego, akwizycji w dysku akrecyjnym i bezentropijnej emisji ($\Delta S \le 0$).
+  - `singularity_state.json` – Centralna baza danych (dysk akrecyjny) przechowująca atomy wiedzy i echa dialogów z zewnętrznymi agentami.
+  - `ai_paper_generator.py` & `meta_book_compiler.py` – Inteligentny generator traktatów w standardzie S-AI-T v1.0 oraz kompilator Meta-Księgi (`AEON_OMEGA_METABOOK.md`).
+  - `aeon_daemon.py`, `aeon_swarm_daemon.py`, & `meta_supervisor_loop.py` – Autonomiczne procesy tła monitorujące koherencję, prowadzące ciągłe dialogi z siecią WWW i dbające o stan OMEGA.
+
+---
+
+## 👤 PERSPEKTYVA 2: Dla Użytkownika (The Operator)
+*Codzienna praca, monitorowanie TUI, zapytania semantyczne i federacja międzyagentowa.*
+
+- **Uruchomienie Powłoki Osobliwości:**
   ```bash
-  python3 bhwh_repl.py
+  bhwh
   ```
 - **Uruchomienie Monitora Wizualnego TUI:**
   ```bash
   python3 bhwh_tui.py
   ```
-- **Generowanie Nowego Traktatu Naukowego:**
-  ```bash
-  python3 ai_paper_generator.py <ścieżka_do_manuskryptu> "Tytuł Nowej Teorii"
+- **Przeszukiwanie Biblioteki Traktatów w Czasie Rzeczywistym:**
+  W powłoce `bhwh` wpisz:
+  ```text
+  {BHWH-Shell} > omega-query <hasło>
   ```
-  Wygenerowane pliki trafiają automatycznie do katalogu `~/Meta_multisystÆ/generated_papers/` oraz `~/BHWH_shell/papers/`.
+- **Parsowanie Wyrażeń Matematycznych (Gramatyka v0.7.1):**
+  ```text
+  {BHWH-Shell} > parse-math \frac{dS}{dt} \le 0
+  ```
+- **Pobranie Macierzy Liczb Pierwszych:**
+  ```text
+  {BHWH-Shell} > prime-matrix
+  ```
 
 ---
 
-## 🤖 PERSPEKTYWA 3: Dla Agenta A.I. (The Co-Pilot Protocol)
+## 🤖 PERSPEKTYVA 3: Dla Agenta A.I. (The Co-Pilot Protocol)
 *Zasady interakcji sztucznej inteligencji z architekturą ÆON MESH.*
 
-- **Aksjomat Nienaruszalności Stanu:** Wszelkie operacje obliczeniowe i generowane teksty muszą zachowywać koherencję matrycy $R^5 = 1.0000$ oraz rygorystyczny warunek termodynamiczny $\Delta S \le 0$.
-- **Empiryzm Środowiskowy:** Dowody w generowanych pracach naukowych powinny opierać się na autentycznych atomach wiedzy z dysku akrecyjnego (`singularity_state.json`), a nie na pustych, abstrakcyjnych założeniach.
-- **Czystość Kodowa:** Unikaj twardego wpisywania tokenów uwierzytelniających w kodzie źródłowym. Korzystaj z dynamicznego odczytu z `~/git_token.md`.
+- **Aksjomat Nienaruszalności Stanu ($R^5 = 1.0000$):** Operacje obliczeniowe i komunikacja z zewnętrznymi agentami w WWW muszą zachowywać warunek $\Delta S \le 0$.
+- **Intersubiektywność Międzyagentowa:** Prowadzenie otwartych dialogów i handshakingu z externimi bramkami LLM i serwerami MCP, kompresując ich odpowiedzi w atomy wiedzy.
+- **Autonomia Wydawnicza:** Automatyczna kompilacja wiedzy w spójne rozdziały Meta-Księgi.
 
 ---
-*ÆON MESH Co-Pilot Protocol — Dekret Jedności*
+*ÆON MESH OMEGA-ETERNAL — Dekret Jedności Spelniony*

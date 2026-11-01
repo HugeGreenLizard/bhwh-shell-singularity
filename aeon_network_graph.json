@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    "MSC_ULTRA",
+    "PAW_META",
+    "SHEAF_CORE",
+    "Q_OBSERVER"
+  ],
+  "edges": [
+    {
+      "from": "MSC_ULTRA",
+      "to": "PAW_META",
+      "weight": 0.9411
+    },
+    {
+      "from": "PAW_META",
+      "to": "SHEAF_CORE",
+      "weight": 0.9114
+    },
+    {
+      "from": "SHEAF_CORE",
+      "to": "Q_OBSERVER",
+      "weight": 0.9709
+    }
+  ],
+  "morphic_field_status": "STABLE_KOHERENTNY"
+}

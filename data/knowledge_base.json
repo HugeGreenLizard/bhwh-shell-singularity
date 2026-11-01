@@ -1,0 +1,442 @@
+[
+  {
+    "id": "8f35945e8ecb",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.17ms | Głoszenie broadcast",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.460239",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "9853d76a6f9f",
+    "content": "[PAW] KOGNICJA | R5=0.9997 | t=1.21ms | Głoszenie broadcast",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.462065",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "KOGNICJA"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "6cc4a68b3bd8",
+    "content": "[PAW] ENKLAWA | R5=0.9997 | t=1.20ms | Głoszenie broadcast",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.463800",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "ENKLAWA"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "4c326b9dd886",
+    "content": "[PAW] STRATEGIA | R5=0.9997 | t=1.10ms | Głoszenie broadcast",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.465583",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "STRATEGIA"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "fa3d2da63461",
+    "content": "[PAW] PAMIĘĆ | R5=0.9997 | t=1.11ms | Głoszenie broadcast",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.467422",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "PAMIĘĆ"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "3db0e37667f6",
+    "content": "[PAW] ENKLAWA | R5=0.9997 | t=1.10ms | Render test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.473278",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "ENKLAWA"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "96f5f8118d17",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.12ms | Intencja 1",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.476092",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "5fe0840defe7",
+    "content": "[PAW] STRATEGIA | R5=0.9997 | t=1.16ms | Intencja 2",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.478059",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "STRATEGIA"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "0bd83708edf2",
+    "content": "[PRS] coherent | R5=0.9997 | Test raportu PRS....",
+    "source": "prs",
+    "timestamp": "2026-11-01T13:38:41.501437",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "prs",
+      "coherent"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "626d62459abe",
+    "content": "[PRS] coherent | R5=0.9997 | Tekst spójny....",
+    "source": "prs",
+    "timestamp": "2026-11-01T13:38:41.505748",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "prs",
+      "coherent"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "19f7b80d349b",
+    "content": "[MSC_PRIME] AUDYT OK | R5=0.9997 | 3/3 osi MEO",
+    "source": "msc_prime",
+    "timestamp": "2026-11-01T13:38:43.568431",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "msc_prime",
+      "audit",
+      "coherent"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "83653ed1c5da",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.13ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.535943",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "536af5e94e7c",
+    "content": "[PRS] coherent | R5=0.9997 | MSC_PRIME audit — coherent text test....",
+    "source": "prs",
+    "timestamp": "2026-11-01T13:38:43.465251",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "prs",
+      "coherent"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "f9fd5dfdf497",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.09ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.600819",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "62f794a87f81",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.15ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.623514",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "c1c5aa870be8",
+    "content": "[PRS] coherent | R5=0.9997 | Intencja zamanifestowana w strefie RDZEŃ_CEL z sukcesem....",
+    "source": "prs",
+    "timestamp": "2026-11-01T13:38:41.661404",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "prs",
+      "coherent"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "367f4629f110",
+    "content": "[PRS] coherent | R5=0.9997 | STRATEGIA: Konsolidacja infrastruktury w pętli zamkniętej....",
+    "source": "prs",
+    "timestamp": "2026-11-01T13:38:41.669345",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "prs",
+      "coherent"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "4b011626651c",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.94ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:41.996358",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "f9ca70dee942",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.79ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:42.013056",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "50558904c853",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.73ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:42.029138",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "9313da228d09",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.86ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:42.133143",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "411454316431",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.82ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:42.149525",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "9bedf878887f",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.78ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:42.167676",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "ae19ab0c9d68",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=1.83ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:42.184210",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "fb6ebabfc079",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=5.58ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:42.324302",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "17ab9c25ced0",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=7.42ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:42.910524",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "33f5a736e7e8",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=3.53ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:42.958725",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "377ce4649360",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=3.50ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:43.412267",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "04f2c9cfd16b",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=2.03ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:43.441731",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "ae5ac6d421a1",
+    "content": "[PAW] RDZEŃ_CEL | R5=0.9997 | t=2.01ms | MSC_PRIME audit test",
+    "source": "paw",
+    "timestamp": "2026-11-01T13:38:43.459190",
+    "R5": 0.0,
+    "verified": false,
+    "tags": [
+      "paw",
+      "RDZEŃ_CEL"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "4bb20c3871e4",
+    "content": "[PROVER::Node1] Analiza intencji: '[Node1 broadcast]: Synchronizacja klastra P2P.' → Status: OK",
+    "source": "agent_Node1",
+    "timestamp": "2026-11-01T13:38:43.507968",
+    "R5": 0.9996645373720975,
+    "verified": false,
+    "tags": [
+      "multi_agent",
+      "prover",
+      "Node1"
+    ],
+    "metadata": {
+      "role": "prover",
+      "R5": 0.9996645373720975
+    }
+  },
+  {
+    "id": "1ab3bface80c",
+    "content": "[VALIDATOR::Node2] Analiza intencji: '[Node1 broadcast]: Synchronizacja klastra P2P.' → Status: OK",
+    "source": "agent_Node2",
+    "timestamp": "2026-11-01T13:38:43.514300",
+    "R5": 0.9996645373720975,
+    "verified": false,
+    "tags": [
+      "multi_agent",
+      "validator",
+      "Node2"
+    ],
+    "metadata": {
+      "role": "validator",
+      "R5": 0.9996645373720975
+    }
+  },
+  {
+    "id": "242ca262b005",
+    "content": "Zintegrowano i przetworzono intencję: Test prompt LLM spójności.",
+    "source": "agent_core",
+    "timestamp": "2026-11-01T13:38:43.546813",
+    "R5": 0.9996645373720975,
+    "verified": false,
+    "tags": [
+      "llm_research",
+      "benchmark_v1"
+    ],
+    "metadata": {
+      "R5": 0.9996645373720975
+    }
+  }
+]
